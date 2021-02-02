@@ -3,7 +3,7 @@
 // Coding Assignment
 
 const itemPrice = 77
-let moneyInWalletBefore = 100
+const moneyInWalletBefore = 100
 let numberOfFriends = 231
 let age = 21
 const firstName = 'Linus'

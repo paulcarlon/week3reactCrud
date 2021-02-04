@@ -2,7 +2,7 @@
 // Front-End Web Development Week 1
 // Coding Assignment
 
-const itemPrice = 77
+let itemPrice = 77
 const moneyInWalletBefore = 100
 let numberOfFriends = 231
 let age = 21
@@ -33,3 +33,28 @@ console.log(middleInitial)
 console.log(lastName)
 console.log(fullName)
 console.log('Who created Linux in 1991 as well as Github in 2005')
+
+// // JavaScript Data Types
+
+// //Number
+// let waterBill = 53
+// //String
+// let bookTitle = 'Under The Sky'
+// //Boolean
+// let isAdmin = false
+// //BigInt
+// let nationalDebt = 983n
+// console.log(typeof nationalDebt)
+// //Undefined
+// let defined
+// //Null
+// let nothing = null
+// //Symbol
+// const cymbal = Symbol()
+// const cymbal2 = Symbol()
+// cymbal == cymbal2 ? console.log('Samesies') : console.log('New Instance')
+let bigInt = 808n
+let primDat = 444
+
+console.log(primDat)
+console.log(typeof bigInt)
